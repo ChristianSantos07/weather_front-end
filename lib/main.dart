@@ -1,11 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
-import 'package:teste_linx/new/gerenciado_estado.dart';
-import 'package:teste_linx/new/screen_home.dart';
+import 'home/screen_home.dart';
 
 
 
-final GetController get = Get.put(GetController());
 
 void main() {
   runApp(const MyApp());
