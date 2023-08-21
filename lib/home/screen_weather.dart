@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import 'form_pesquisa.dart';
-import 'gerenciado_estado.dart';
+import 'gerenciador_estado.dart';
 
 class ScreenWeather extends StatelessWidget {
   const ScreenWeather({super.key});
