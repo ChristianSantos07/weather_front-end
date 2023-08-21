@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:teste_linx/home/gerenciado_estado.dart';
+import 'package:teste_linx/home/gerenciador_estado.dart';
 
 class ScreenNextDay extends StatelessWidget {
   const ScreenNextDay({super.key});
