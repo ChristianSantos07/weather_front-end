@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'gerenciado_estado.dart';
+import 'gerenciador_estado.dart';
 
 class ScreenHistoricCity extends StatelessWidget {
   const ScreenHistoricCity({super.key});
