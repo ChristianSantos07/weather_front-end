@@ -3,8 +3,7 @@ import 'package:get/get.dart';
 import 'package:teste_linx/home/screen_historic_city.dart';
 import 'package:teste_linx/home/screen_next_day.dart';
 import 'package:teste_linx/home/screen_weather.dart';
-
-import 'gerenciado_estado.dart';
+import 'gerenciador_estado.dart';
 
 
 class HomeScreen extends StatefulWidget {
